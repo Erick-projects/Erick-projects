@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Erick Magaña <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Erick Ramos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Competitive+Programmer"></a>
 </p>
@@ -9,9 +9,9 @@
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-I am a passionate Frontend and mobile Developer with 1 year of experience, dedicated to creating web interfaces. I have contributed to projects that enhanced user engagement and experience. A detail-oriented and collaborative team player, I thrive in environments that value creativity, innovation, and continuous learning. I apply teamwork, communication, and problem-solving skills to ensure projects are completed successfully, focusing on delivering solutions that align with user needs and expectations.
+Full Stack Developer with experience designing and building scalable web and mobile applications using React, Next.js, Node.js, TypeScript, React Native, and Kotlin. Skilled in developing responsive user interfaces with HTML, CSS, and JavaScript, creating efficient front-end and back-end solutions, and integrating APIs for real-time data fetching, authentication, and data storage. Experienced with Firebase, Contentful CMS, Joomla, and AI tools (Cline), as well as implementing unit and integration testing with Jest to ensure code quality.
 
-🔭 **I’m currently working on:**  <br>Improving the performance of web pages.<br><br>👯 **I’m looking to collaborate on:**  <br>Frontend/Mobile projects.<br><br>🌱 **I’m currently learning:**  <br>Kotlin and Swift.<br>
+Proficient in Agile, Scrum, and Kanban methodologies, utilizing tools like Jira and Trello for project management and task tracking. Passionate about building accessible, user-friendly applications and collaborating across cross-functional teams to deliver high-quality software solutions.
 
 # 💻 Tech Stack:
 
